@@ -31,4 +31,8 @@ Product Advertisement Applicaton APIs.
 
 **Note: Create a copy of .env.example to and rename .env**
 
+Test user credintials
+Username: munshif@test.com
+Password: password
+
 <hr><br/>
